@@ -1,1 +1,4 @@
-print ('prueba')
+function prueba() {
+  print ('prueba')
+}
+
